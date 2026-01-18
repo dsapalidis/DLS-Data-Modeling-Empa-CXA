@@ -1,9 +1,6 @@
-# DLS-Data-Modeling-Empa-CXA
+# Dynamic-Light-Scattering-Data-Modeling
 Software and useful python tools for data processing and analysis of Multi-angle Dynamic Light Scattering data (from ZetaSizer or other instruments)
 
-<h1 align="center">
-<img src="https://github.com/dsapalidis/mypackage/blob/Sapd-Tutorial/Sapaempa.svg" width="400">
-</h1><br>
 
    
 Multi-angle Dynamic Light Scattering (MA-DLS) software and tools is a Python package containing mostly jupyter notebooks that enables:
@@ -15,7 +12,6 @@ Multi-angle Dynamic Light Scattering (MA-DLS) software and tools is a Python pac
 6. User selection of the number of the angles that will be used for averaging. Evaluation of the robustness of the fitting using the linear curve of Γ-q^2 for each angle
    
 
-- **Website:** https://www.empa.ch/web/s499
 - **Bugs** dsapalidis@gmail.com
 
    
