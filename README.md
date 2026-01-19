@@ -3,8 +3,8 @@ Software and useful python tools for data processing and analysis of Multi-angle
 
 <p align="center">
    <img src="DLS_Multiangle_Plot.png" width="200" />
-  <img src="DLS_Biexponential_Fitting.png" width="200" />
-  <img src="DLS_Gamma_q2_Fit.png" width="200" />
+  <img src="DLS_Biexponential_Fitting.png" width="250" />
+  <img src="DLS_Gamma_q2_Fit.png" width="250" />
   </p>
 
    
