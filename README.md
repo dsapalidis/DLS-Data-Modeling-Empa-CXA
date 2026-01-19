@@ -2,9 +2,9 @@
 Software and useful python tools for data processing and analysis of Multi-angle Dynamic Light Scattering data (from ZetaSizer or other instruments)
 
 <p align="center">
-   <img src="DLS_Multiangle_Plot.png" height="220" />
-  <img src="DLS_Biexponential_Fitting.png" height="220" />
-  <img src="DLS_Gamma_q2_Fit.png" height="220" />
+   <img src="DLS_Multiangle_Plot.png" height="160" />
+  <img src="DLS_Biexponential_Fitting.png" height="160" />
+  <img src="DLS_Gamma_q2_Fit.png" height="160" />
   </p>
 
 
